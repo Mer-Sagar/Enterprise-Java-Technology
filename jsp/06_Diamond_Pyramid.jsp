@@ -4,6 +4,7 @@
  	<title> Diamond Pyramid</title>
  </head>
  <body>
+		<hr color="Orange">
 	
 		<h1><center> Diamond Pyramid </center></h1>
 	 	<center>
@@ -52,5 +53,6 @@
 			diamond(out);
 		%>
  		</center>
+		<hr color="Green">
  </body>
  </html>
